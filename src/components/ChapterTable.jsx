@@ -7,6 +7,9 @@ const ChapterList = () => {
 
   // Data contoh untuk tabel
   const data = [
+    { title: 'Chapter 1', lastUpdate: '19 Januari 2024' },
+    { title: 'Chapter 2', lastUpdate: '19 Januari 2024' },
+    { title: 'Chapter 3', lastUpdate: '19 Januari 2024' },
   ];
 
   // State untuk menyimpan data chapter yang sedang diedit
