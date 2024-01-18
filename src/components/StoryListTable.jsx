@@ -5,7 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const BootstrapTable = () => {
   // Data contoh untuk tabel
   const data = [
+    { title: 'Hujan', writer: 'Tere Liye', category: 'Health', tags: 'romance, horor', status: 'Published' },
+    { title: 'Daun Yang Jatuh Tidak Pernah Membenci Angin', writer: 'Tere Liye', category: 'Financial', tags: 'romance, fiction', status: 'Draft' },
+    { title: 'Dear Salma', writer: 'Alia Dewanto', category: 'Technology', tags: 'romace, love, drama', status: 'Published' },
   ];
+
 
   return (
     <div className="container mt-5">
@@ -32,7 +36,6 @@ const BootstrapTable = () => {
               </td>
               <td>
                 {/* Menggunakan Badge untuk kolom Status */}
-                <span class="badge rounded-pill text-bg-secondary">{item.status}</span>
                 <span class="badge rounded-pill text-bg-warning">{item.status}</span>
               </td>
               <td>
