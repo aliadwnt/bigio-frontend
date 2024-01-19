@@ -78,5 +78,5 @@ This project uses the following libraries:
 ![Screenshot 6](src/document/6.png)
 
 - **CodeIgniter4**
-Note : Mohon maaf, saya belum membuat back-endnya.. dikarenakan saya baru membaca email tanggal 18 Jan 2024 Pukul 19.45, dan deadline tanggal 19 Jan 2024 Pukul 05.00, sehingga saya tidak bisa menyelesaikan tugas dengan maksimal
-
+Note : Mohon maaf, saya belum selesai membuat back-endnya.. dikarenakan saya baru membaca email tanggal 18 Jan 2024 Pukul 19.45, dan deadline tanggal 19 Jan 2024 Pukul 05.00, sehingga saya tidak bisa menyelesaikan tugas dengan maksimal
+Repository Back-End : https://github.com/aliadwnt/bigio-backend.git 
